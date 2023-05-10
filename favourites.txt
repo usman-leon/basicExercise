@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 shahi kabab
 kabab with chatni
 every food must be halal
+=======
+life of pi 
+martian
+>>>>>>> movies
